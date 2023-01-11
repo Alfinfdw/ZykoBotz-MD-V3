@@ -49,43 +49,43 @@ global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
 global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['628XXXXXXXXX', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6285608468994', 'DivanXdツ', true],
+['+1(224)4344522', 'DivanXdツ', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '628XXXXXXXXX' //pasang no bot lo 
-global.nomorown = '628XXXXXXXXX' //pasang no own lo
-global.nomorown1 = '628XXXXXXXXX'
-global.nomorown2 = '628XXXXXXXXX'
+global.nomorbot = '6285608468994' //pasang no bot lo 
+global.nomorown = '+1(224)4344522' //pasang no own lo
+global.nomorown1 = '+1(224)4344522'
+global.nomorown2 = '6285608468994'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'DivanXdツ'
+global.gcname = 'DivanXdツ'
+global.author = 'Created By DivanXdツ'
+global.namabot = 'DivanXdツ-𝗠𝗗'
+global.namebot = 'DivanXdツ-𝗠𝗗'
+global.packname2 = 'DivanXdツ-𝑀𝐷'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'DivanXdツ-𝑀𝐷'
+global.nameown2 = 'DivanXdツ-𝑀𝐷'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© DivanXdツ-𝑀𝐷'
+global.wm2 = 'DivanXdツ-𝑀𝐷 '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `DivanXdツ-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'DivanXdツ-𝑀𝐷'
+global.stickauth = `© DivanXdツ-𝑀𝐷`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
